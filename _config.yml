@@ -1,0 +1,11 @@
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
+minima:
+  skin: dark
+collections:
+  docs:
+    output: true
+header_pages:
+  - releases.md
+  - docs.md
